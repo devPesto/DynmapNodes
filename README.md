@@ -1,2 +1,2 @@
-# DynmapNodes
-Dynmap viewer for Nodes
+# NodesMap
+Broswer map viewer for Nodes
